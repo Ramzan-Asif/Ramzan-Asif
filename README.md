@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramzan Asif</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3><br>
-<img align="right" alt="coding" width="375" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif"><br>
+<img align="right" alt="coding" width="375" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 - 🌱 I’m currently learning **Exploratory data analyst using python**
 
