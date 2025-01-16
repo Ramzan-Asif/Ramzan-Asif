@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **work.ramzanasif@gmail.com**
 
-- ⚡ Fun fact **When I'm not analyzing data or coding, I enjoy teaching, exploring new technologies, and working out daily to stay sharp—both mentally and physically!**
+- ⚡ Fun fact **When I'm not analyzing data or coding, I enjoy teaching, exploring new technologies, and working out daily to stay sharp—both mentally and physically!** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
