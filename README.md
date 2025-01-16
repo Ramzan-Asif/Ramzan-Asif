@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramzan Asif</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate Data Analyst from Pakistan</h3><br>
 <img align="right" alt="coding" width="375" src="https://media2.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952x1qdsi6ao3h8vka7esvwb46k95729r8dzc0kdido&ep=v1_gifs_search&rid=200w.gif&ct=g"><br>
 
 - 🌱 I’m currently learning **Exploratory data analyst using python**
