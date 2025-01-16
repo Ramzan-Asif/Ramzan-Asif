@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramzan Asif</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3><br>
-<img align="right" alt="coding" width="375" src="https://media2.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952x1qdsi6ao3h8vka7esvwb46k95729r8dzc0kdido&ep=v1_gifs_search&rid=200w.gif&ct=g"><br>
+<img align="right" alt="coding" width="375" src="[https://media2.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952x1qdsi6ao3h8vka7esvwb46k95729r8dzc0kdido&ep=v1_gifs_search&rid=200w.gif&ct=g](https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966)"><br>
 
 - 🌱 I’m currently learning **Exploratory data analyst using python**
 
