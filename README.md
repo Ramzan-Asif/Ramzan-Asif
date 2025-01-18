@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Exploratory data analyst using python**
 
-- 👨‍💻 All of my projects are available at [github.com/Ramzan-Asif](github.com/Ramzan-Asif)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ramzan-Asif)
 
 - 📫 How to reach me **work.ramzanasif@gmail.com**
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ramzan-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzan-asif" height="30" width="40" /></a>
 <a href="https://instagram.com/syed_ramzan_asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_ramzan_asif" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rz_tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rz_tutor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Rz_Tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rz_tutor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
